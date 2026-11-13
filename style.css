@@ -57,3 +57,19 @@ a {
 a:hover {
     text-decoration: underline;
 }
+
+.header-links {
+    margin: 10px 0 0 0;
+}
+
+.header-links a {
+    color: #fff;
+    text-decoration: underline;
+}
+
+footer {
+    text-align: center;
+    padding: 20px 0;
+    color: #666;
+    font-size: 0.9em;
+}
